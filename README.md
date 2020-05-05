@@ -1,6 +1,6 @@
 # docker-latex
 
-Scripts for using the texlive-2018 Docker image in the LaTeX build chain.
+Scripts for using the texlive-2019 Docker image in the LaTeX build chain.
 
 Usage: e.g. in TexStudio, use something like
 ```
